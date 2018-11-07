@@ -12,4 +12,8 @@ class User extends BaseUser
 
     }
 
+    public function getUserData() {
+
+    }
+
 }
