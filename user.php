@@ -7,5 +7,9 @@ class User extends BaseUser
     public function getUser() {
 
     }
+    
+    public function getAge() {
+
+    }
 
 }
