@@ -13,6 +13,8 @@ public function remote() {
 
   echo "added code on branch";
   echo "working on remote";
+  
+  echo " add one more line";
 }
 
 
