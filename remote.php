@@ -15,6 +15,7 @@ public function remote() {
   echo "working on remote";
   
   echo " add one more line";
+  echo "working on remote";
 }
 
 
