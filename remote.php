@@ -10,6 +10,8 @@ public function remote() {
   echo "add new code lines";
 
   echo "local added new code lines too";
+
+  echo "added code on branch";
 }
 
 
